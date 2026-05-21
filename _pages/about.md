@@ -2,33 +2,52 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Undergraduate Researcher · <a href="http://suscom.yonsei.ac.kr/" target="_blank">i-SUSCOME Lab</a>, Architectural Engineering, Yonsei University
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: false
+  more_info:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm an undergraduate researcher working at the intersection of building science, computational design, and human–environment interaction. My work focuses on thermal comfort, physiological signal processing (EDA, ECG/HRV, SKT, PPG), and machine-learning-based predictive modeling. I care about pushing architecture toward data-driven, evidence-based design.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+What excites me most is what becomes possible when machine learning meets a field as vast and consequential as architecture. I want to do research that is technically substantive and whose effects ordinary people can actually feel — currently, that means human activity recognition for capturing the tacit know-how of skilled construction workers and turning it into data that can train robots or onboard junior workers.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+---
+
+**Education**
+
+- Yonsei University — B.Eng. in Architectural Engineering, 2019–Present
+
+---
+
+**Awards & Honors**
+
+- Shortlisted — 2025 buildners International Competition, *The Architect's Chair*
+- President of NDMI Award — 2024 Seismic Design Competition (National Disaster Management Research Institute, Republic of Korea)
+
+---
+
+**Certifications**
+
+- Fire Safety Manager (Lv. 2) · 2025
+- Korea Red Cross Lifeguard & Survival Swimming Instructor · 2025
+- Construction Worker Certification · 2021
+
+---
+
+**Miscellaneous**
+
+League of Legends: Platinum &nbsp;/&nbsp; Powerlifting: 415 kg total (3-lift) &nbsp;/&nbsp; Basketball
